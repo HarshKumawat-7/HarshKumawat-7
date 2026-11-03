@@ -6,7 +6,7 @@
 
 Building reliable applications, exploring intelligent systems, and turning ideas into working software.
 
-<img src="./assets/solar-system.svg" alt="3D-inspired animated solar system representing my technical skill set" width="100%" />
+<img src="./assets/solar-system.svg" alt="Animated 3D-style solar system: each planet is one of my skill areas" width="100%" />
 
 [LinkedIn](https://linkedin.com/in/harsh-kumawat-829b7b32a) · [Email](mailto:harshk94138167777@gmail.com) · Udaipur, India
 
@@ -27,23 +27,43 @@ I'm a Computer Science and Engineering student and aspiring Software Engineer wh
 
 ## The Skill Universe
 
-The solar system above is a visual map of what I work with. I'm the sun at the center, and each planet orbiting me is a skill area:
+I'm the sun at the center, and each planet orbiting me is a skill area.
 
-| Planet | Technologies |
-| :-- | :-- |
-| 🟠 **Programming** | Python · C++ · JavaScript · C |
-| 🔵 **Frontend** | React.js · Vite · Tailwind CSS |
-| 🟢 **Backend & APIs** | Node.js · Express.js · REST APIs |
-| 🪐 **Databases** | MongoDB · MySQL · Redis |
-| 🟣 **AI & LLMs** | Agentic AI · Generative AI fundamentals · Prompt Engineering · RAG |
-| 🔴 **Tools & Platforms** | Docker · Git · GitHub · Linux |
-| 🌐 **Computer Science** | DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design |
+**🟠 Programming**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+
+**🔵 Frontend**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+
+**🟢 Backend & APIs**  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+
+**🪐 Databases**  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+
+**🟣 AI & LLMs**  
+<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" /> <img src="https://img.shields.io/badge/RAG-9B5DE5?style=for-the-badge&logo=googlegemini&logoColor=white" alt="RAG" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-DB2777?style=for-the-badge&logo=anthropic&logoColor=white" alt="Prompt Engineering" />
+
+**🔴 Tools & Platforms**  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+**🌐 Computer Science**  
+DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design
 
 ## Featured Projects
 
+Click an icon or a language card to open that repository.
+
 ### 01 · SUpp — Real-Time Chat Application
 
-A full-stack chat application designed for secure, real-time communication.
+<a href="https://github.com/HarshKumawat-7/SUpp"><img src="./assets/icon-supp.svg" width="72" align="left" alt="SUpp — Real-Time Chat Application icon" /></a>
+
+**Secure real-time communication**  
+<a href="https://github.com/HarshKumawat-7/SUpp">View repository →</a>
+
+<br clear="left" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 
 - React + Vite frontend styled with Tailwind CSS.
 - Node.js and Express backend with JWT authentication, protected routes, and profile management.
@@ -51,9 +71,18 @@ A full-stack chat application designed for secure, real-time communication.
 - Cloudinary supports image and media uploads.
 - Modular controllers and global client-side stores manage authentication, chat, and theme state.
 
+<a href="https://github.com/HarshKumawat-7/SUpp"><img src="./assets/lang-SUpp.svg" alt="SUpp language breakdown" width="420" /></a>
+
 ### 02 · tEStro — Cybersecurity Testing Lab
 
-A MERN-stack cybersecurity testing lab with a SOC-style dashboard and modular security simulations.
+<a href="https://github.com/HarshKumawat-7/tEStro"><img src="./assets/icon-testro.svg" width="72" align="left" alt="tEStro — Cybersecurity Testing Lab icon" /></a>
+
+**SOC-style dashboard with modular security simulations**  
+<a href="https://github.com/HarshKumawat-7/tEStro">View repository →</a>
+
+<br clear="left" />
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
 - Simulations cover injection, XSS, authentication, brute-force login attempts, traffic load, API probes, headers, file/path checks, and safe DoS scenarios.
 - Recharts dashboards with JSON/PDF report exports.
@@ -61,9 +90,18 @@ A MERN-stack cybersecurity testing lab with a SOC-style dashboard and modular se
 - Includes Helmet, scoped rate limits, localhost-only live HTTP, and capped concurrency safeguards.
 - A premium ML module for heuristic risk scoring and larger-scale simulations is in development.
 
+<a href="https://github.com/HarshKumawat-7/tEStro"><img src="./assets/lang-tEStro.svg" alt="tEStro language breakdown" width="420" /></a>
+
 ### 03 · DOCQ — AI Document Intelligence
 
-A full-stack AI document workspace with document-aware conversations.
+<a href="https://github.com/HarshKumawat-7/DOCQ"><img src="./assets/icon-docq.svg" width="72" align="left" alt="DOCQ — AI Document Intelligence icon" /></a>
+
+**Document-aware AI conversations**  
+<a href="https://github.com/HarshKumawat-7/DOCQ">View repository →</a>
+
+<br clear="left" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 
 - React/Vite SaaS dashboard with Node.js/Express APIs.
 - Retrieval-Augmented Generation (RAG) pipeline using MongoDB vector search.
@@ -71,7 +109,7 @@ A full-stack AI document workspace with document-aware conversations.
 - Role-Based Access Control (RBAC) and JWT authentication.
 - Background PDF/DOCX processing with BullMQ and Redis.
 
-<!-- TODO: add repository links to each project once published. -->
+<a href="https://github.com/HarshKumawat-7/DOCQ"><img src="./assets/lang-DOCQ.svg" alt="DOCQ language breakdown" width="420" /></a>
 
 ## Experience
 
@@ -98,10 +136,10 @@ Techno India NJR · Udaipur, India
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshKumawat-7&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshKumawat-7&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+<img src="./assets/stats.svg" alt="GitHub stats" height="170" />
+<img src="./assets/top-languages.svg" alt="Most used languages" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=HarshKumawat-7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="100%" />
 
 </div>
 
