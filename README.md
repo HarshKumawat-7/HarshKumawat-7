@@ -52,16 +52,12 @@ DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design
 
 ## Featured Projects
 
-Click an icon or a language card to open that repository.
+Click **View repository →** to open each project.
 
 ### 01 · SUpp — Real-Time Chat Application
 
-<a href="https://github.com/HarshKumawat-7/SUpp"><img src="./assets/icon-supp.svg" width="72" align="left" alt="SUpp — Real-Time Chat Application icon" /></a>
-
 **Secure real-time communication**  
 <a href="https://github.com/HarshKumawat-7/SUpp">View repository →</a>
-
-<br clear="left" />
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 
@@ -71,16 +67,11 @@ Click an icon or a language card to open that repository.
 - Cloudinary supports image and media uploads.
 - Modular controllers and global client-side stores manage authentication, chat, and theme state.
 
-<a href="https://github.com/HarshKumawat-7/SUpp"><img src="./assets/lang-SUpp.svg" alt="SUpp language breakdown" width="420" /></a>
 
 ### 02 · tEStro — Cybersecurity Testing Lab
 
-<a href="https://github.com/HarshKumawat-7/tEStro"><img src="./assets/icon-testro.svg" width="72" align="left" alt="tEStro — Cybersecurity Testing Lab icon" /></a>
-
 **SOC-style dashboard with modular security simulations**  
 <a href="https://github.com/HarshKumawat-7/tEStro">View repository →</a>
-
-<br clear="left" />
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
@@ -90,16 +81,11 @@ Click an icon or a language card to open that repository.
 - Includes Helmet, scoped rate limits, localhost-only live HTTP, and capped concurrency safeguards.
 - A premium ML module for heuristic risk scoring and larger-scale simulations is in development.
 
-<a href="https://github.com/HarshKumawat-7/tEStro"><img src="./assets/lang-tEStro.svg" alt="tEStro language breakdown" width="420" /></a>
 
 ### 03 · DOCQ — AI Document Intelligence
 
-<a href="https://github.com/HarshKumawat-7/DOCQ"><img src="./assets/icon-docq.svg" width="72" align="left" alt="DOCQ — AI Document Intelligence icon" /></a>
-
 **Document-aware AI conversations**  
 <a href="https://github.com/HarshKumawat-7/DOCQ">View repository →</a>
-
-<br clear="left" />
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 
@@ -109,18 +95,6 @@ Click an icon or a language card to open that repository.
 - Role-Based Access Control (RBAC) and JWT authentication.
 - Background PDF/DOCX processing with BullMQ and Redis.
 
-<a href="https://github.com/HarshKumawat-7/DOCQ"><img src="./assets/lang-DOCQ.svg" alt="DOCQ language breakdown" width="420" /></a>
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="./assets/stats.svg" alt="GitHub stats" height="170" />
-<img src="./assets/top-languages.svg" alt="Most used languages" height="170" />
-
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="100%" />
-
-</div>
 
 ---
 
