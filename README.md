@@ -111,27 +111,6 @@ Click an icon or a language card to open that repository.
 
 <a href="https://github.com/HarshKumawat-7/DOCQ"><img src="./assets/lang-DOCQ.svg" alt="DOCQ language breakdown" width="420" /></a>
 
-## Experience
-
-**AI Code Reviewer (LLM Evaluation) — Sentinel Ultra, Snorkel AI**  
-*Remote · July 2026*
-
-- Reviewed, debugged, and refined AI-generated code in Python, JavaScript/React, and DSA.
-- Identified and fixed critical bugs to improve correctness and reliability.
-- Collaborated with a remote expert contributor team to maintain quality and approval standards.
-
-## Education
-
-**Bachelor of Technology (B.Tech), Computer Science and Engineering**  
-Techno India NJR · Udaipur, India  
-2023–2027 · Current CGPA: **7.9/10**
-
-## Certifications
-
-- **RHCSA** — Red Hat (2025)
-- **Cybersecurity Training in Operational Technology (OT) Security** — iTrust, SUTD (2025)
-- **Prompt Engineering** — IBM SkillsBuild Winter Program (2025)
-
 ## GitHub Activity
 
 <div align="center">
