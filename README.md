@@ -6,7 +6,7 @@
 
 Building reliable applications, exploring intelligent systems, and turning ideas into working software.
 
-<img src="./assets/solar-system.svg" alt="Animated 3D-style solar system: each planet is one of my skill areas" width="100%" />
+<img src="./assets/hero.svg" alt="Animated hero banner showing my skills" width="100%" />
 
 [LinkedIn](https://linkedin.com/in/harsh-kumawat-829b7b32a) · [Email](mailto:harshk94138167777@gmail.com) · Udaipur, India
 
@@ -27,7 +27,7 @@ I'm a Computer Science and Engineering student and aspiring Software Engineer wh
 
 ## The Skill Universe
 
-I'm the sun at the center, and each planet orbiting me is a skill area.
+Here is my stack, grouped by area.
 
 **🟠 Programming**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
