@@ -6,7 +6,7 @@
 
 Building reliable applications, exploring intelligent systems, and turning ideas into working software.
 
-<img src="./assets/hero.svg" alt="Animated hero banner showing my skills" width="100%" />
+<img src="./assets/hero.svg" alt="git log --graph of my skills: every branch merges into main" width="100%" />
 
 [LinkedIn](https://linkedin.com/in/harsh-kumawat-829b7b32a) · [Email](mailto:harshk94138167777@gmail.com) · Udaipur, India
 
